@@ -74,7 +74,7 @@ const ContactSection: React.FC = () => {
 
   if (isSubmitted) {
     return (
-      <section id="contact" className="py-24 bg-white">
+      <section id="contact\" className="py-24 bg-white">
         <div className="container mx-auto px-6">
           <motion.div
             initial={{ opacity: 0, scale: 0.9 }}
