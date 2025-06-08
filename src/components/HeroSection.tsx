@@ -68,7 +68,7 @@ const HeroSection: React.FC = () => {
           >
             Transform your photos with professional beauty retouching that makes you look like the{' '}
             <span className="font-semibold text-coral-pink">main character</span> of your own story.
-            From 'cute' to 'holy sh*t' in 24 hours.
+            From 'cute\' to 'holy sh*t' in 24 hours.
           </motion.p>
 
           {/* CTA Buttons */}
